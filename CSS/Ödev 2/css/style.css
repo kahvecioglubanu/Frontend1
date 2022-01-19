@@ -9,18 +9,19 @@
 
     .td-left {
         background-color: #7EE5DA; 
-        width:39%;
+        width:33%;
+        font-size: 16px;
     }
 
     .td-medium {
         background-color:#70CCC2; 
-        width: 22%; 
-        font-size: small;
+        width: 33%; 
+        font-size: 16px;
     }
     
     .td-right {
         background-color: #62B3AA; 
-        width: 39%; 
+        width: 33%; 
         font-size: small;
     }
 
@@ -28,7 +29,12 @@
         min-width: 100%;
         margin: auto;
     }
-    
+
     button {
         border-radius:2 px;
     }
+
+    .margin {
+        margin-bottom: 15px;
+    }
+
