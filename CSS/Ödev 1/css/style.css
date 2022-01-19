@@ -1,0 +1,93 @@
+    h1 {
+        font-size: 40px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #0300ce
+    }
+
+    h2 {
+        font-size: 20px;
+        text-align:center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .nav {
+        font-size: 20px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .button {
+        background-color: #6d6cce; /* Blue */
+        border: none;
+        color: white;
+        padding: 15px 30px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        border-radius: 30px;
+      }
+
+    .p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+    }
+
+    .liste {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        list-style-position: inside
+    }
+
+    div.groove {
+        border-style: groove;
+        width: 600px;
+        margin: auto;
+    }
+    
+    a.mono:hover, a.mono:active {
+        font-family: monospace;
+
+    }
+
+    .footer {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+              
+    }
+
+    .card {
+        border-style: groove;
+        width: 600px;
+        margin: auto;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 20px;
+    }
+
+    .aciklama {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        width: 600px;
+    }
+
+    .licenter{
+        list-style-position: inside;
+        display: table; 
+        text-align:center;
+        margin: 0 auto;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+
+    .licenter2{
+        text-align:left;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 
